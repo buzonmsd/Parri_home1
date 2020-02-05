@@ -41,6 +41,17 @@ p {
   }
 
 
+a:link {
+  color:white;
+  }
+  a:visited {
+  color:blue;
+  }
+  a:hover {
+  color:yellow;
+  }
+
+
   .row {
 
     position: inherit;
